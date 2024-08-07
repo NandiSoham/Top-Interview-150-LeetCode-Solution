@@ -27,3 +27,5 @@ class RandomizedSet:
         return random.choice(self.numList)
 
 
+# Time Complexity -> O(1)
+# Space Complexity -> O(n)
